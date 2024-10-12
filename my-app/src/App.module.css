@@ -1,0 +1,11 @@
+/* App.module.css */
+.app {
+    text-align: center;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+}
